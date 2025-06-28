@@ -26,43 +26,36 @@
 <p align="center">
 
 - **Programming Languages**:
-    
-<p align="left"> 
+  
   ![C#](https://img.shields.io/badge/C%23-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-</p>
+
 
 <br>   
     
 - **Front-End Development**:
 
-<p align="left"> 
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
   ![Vuetify](https://img.shields.io/badge/Vuetify-%2300C58E.svg?style=for-the-badge&logo=vuetify&logoColor=white)
-</p>
 
   
 <br>
 
 - **Softwares and Tools**:
 
-<p align="left"> 
   ![.NET](https://img.shields.io/badge/.NET-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
   ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</p>
 
 <br>
 
 - **Database**:
-
-<p align="left"> 
+ 
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%234F5B93.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-</p>
 
 <br>
 <br>
