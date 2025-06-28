@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Sergio Dominguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a><img src="https://imgur.com/a/AbcSDtr"></a>
+  <a><img src="logo.png" width="100" height="50"></a>
 </p>
 
 
