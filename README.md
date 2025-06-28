@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, Soy Sergio Dominguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://github.com/serodominguez/serodominguez/blob/33d1f8d8d8338b2247c3d3c3ba0e6b2ee37829bf/Logo.png" alt="Logo de Sergio Dominguez" width="250" height="300">
+  <img src="https://github.com/serodominguez/serodominguez/blob/33d1f8d8d8338b2247c3d3c3ba0e6b2ee37829bf/Logo.png" alt="Logo de Sergio Dominguez" width="300" height="150">
 </p>
 
 <br>
