@@ -52,7 +52,7 @@
 
 <br>
 
-- **Base de datos**:
+- **Database**:
  
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%234F5B93.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
