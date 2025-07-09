@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , Soy Sergio Dominguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Sergio Dominguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://github.com/serodominguez/serodominguez/blob/33d1f8d8d8338b2247c3d3c3ba0e6b2ee37829bf/Logo.png" alt="Logo de Sergio Dominguez" width="300" height="150">
@@ -6,26 +6,26 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Experiencia laboral</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Work experience</b>
 
 <br>
 
-- Desarrollador Front-end y Back-end autodidacta y apasionado.
-- Gestión de bases de datos en SQL server y Oracle.
-- Soporte técnico a usuarios.
-- Administración de servidores Windows y Linux.
-- Administración y configuración de dispositivos Mikrotik.
+- Self-taught and passionate Front-end and Back-end developer.
+- Database management in SQL server and Oracle.
+- Technical support to users.
+- Windows and Linux server administration.
+- Administration and configuration of Mikrotik devices.
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Aptitudes</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
 
-- **Lenguajes de programación**:
+- **Programming languages**:
   
   ![C#](https://img.shields.io/badge/C%23-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -33,7 +33,7 @@
 
 <br>   
     
-- **Desarrollo Front-End**:
+- **Front-End Development**:
 
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +43,7 @@
   
 <br>
 
-- **Programas y herramientas**:
+- **Programs and tools**:
 
   ![.NET](https://img.shields.io/badge/.NET-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
